@@ -1,0 +1,25 @@
+{
+  "name": "mmall-fe",
+  "version": "1.0.0",
+  "description": " \"mmall\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "mmall"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weijingjing/mmall-fe.git"
+  },
+  "keywords": [
+    "mmall"
+  ],
+  "author": "weijj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weijingjing/mmall-fe/issues"
+  },
+  "homepage": "https://github.com/weijingjing/mmall-fe#readme",
+  "devDependencies": {
+    "webpack": "^1.15.0"
+  }
+}
